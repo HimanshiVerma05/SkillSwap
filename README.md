@@ -1,5 +1,5 @@
 # SkillSwap
-SkillSwap is a one stop solution for those who need help and those who want to help. Our site offers variety of features to enable the neighbours connect easily and find help within few clicks.
+SkillSwap is a one stop solution for those who need help and those who want to help(Skill barter). Our site offers variety of features to enable the neighbours connect easily and find help within few clicks.
 
 ## Dependencies
 A number of dependencies used during the development of the site are as follows:
